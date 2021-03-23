@@ -1,2 +1,1 @@
-
-countries Afghanistan AND Belaru
+countries Afghanistan AND Belarus
